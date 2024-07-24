@@ -1,0 +1,21 @@
+dependencies:
+  espressif/mdns:
+    component_hash: ed10ef031bce505e423c5dbf0fdf2ce7a02df5f9ebffb18df2d6b9852e48817d
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.3.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.4.0
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: /home/larzuk/esp/esp-idf/examples/common_components/protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: 9fa91129f9478653e0f0e87b8ad7bf31de0fb124657dfd15ddad862592de812a
+target: esp32s3
+version: 1.0.0

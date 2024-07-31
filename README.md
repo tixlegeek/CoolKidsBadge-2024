@@ -16,7 +16,7 @@ This project started by 2023, but could not be ready in time for LeHack2023. So 
 
 The ESP32S3 firmware needs to be compiled using espressif's **ESP-IDF v5.2** and higher.
 
- ## Using the badge
+## Using the badge
 
 First, connect the power supply, either the FlipperZero with 5V GPIO enabled, or using the USB C Port.
 

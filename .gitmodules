@@ -1,0 +1,3 @@
+[submodule "hw/kicad_schematics/CBRPNKCIE-Kicad-lib"]
+	path = hw/kicad_schematics/CBRPNKCIE-Kicad-lib
+	url = git@github.com:Cyberpunk-company/CBRPNKCIE-Kicad-lib.git

@@ -4,6 +4,15 @@
 	(generator_version "8.0")
 	(uuid "993b403a-1d63-4517-81a2-4725ca8b3f0b")
 	(paper "A4")
+	(title_block
+		(title "CoolKid'sBadge")
+		(date "2024-07-31")
+		(rev "1.1")
+		(company "Cyberpunk.company")
+		(comment 1 "Electronic Conference badge created for LeHack2024 - by Tixlegeek")
+		(comment 2 "https://cyberpunk.company")
+		(comment 3 "https://tixlegeek.io/splash")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)

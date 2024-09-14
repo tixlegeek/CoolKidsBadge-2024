@@ -28,4 +28,5 @@ find "${WEB_PATH}" -type f -regex ".+css\|.+html\|.+js" -print0 | while IFS= rea
 done
 echo "All HTML files processed."
 popd > /dev/null
+idf.py set-target esp32s3
 idf.py flash
